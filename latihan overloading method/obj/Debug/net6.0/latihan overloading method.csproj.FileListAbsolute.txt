@@ -1,0 +1,15 @@
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.csproj.AssemblyReference.cache
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.AssemblyInfoInputs.cache
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.AssemblyInfo.cs
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.csproj.CoreCompileInputs.cache
+E:\visual studio NET\latihan overloading method\latihan overloading method\bin\Debug\net6.0\latihan overloading method.exe
+E:\visual studio NET\latihan overloading method\latihan overloading method\bin\Debug\net6.0\latihan overloading method.deps.json
+E:\visual studio NET\latihan overloading method\latihan overloading method\bin\Debug\net6.0\latihan overloading method.runtimeconfig.json
+E:\visual studio NET\latihan overloading method\latihan overloading method\bin\Debug\net6.0\latihan overloading method.dll
+E:\visual studio NET\latihan overloading method\latihan overloading method\bin\Debug\net6.0\latihan overloading method.pdb
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.dll
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\refint\latihan overloading method.dll
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.pdb
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\latihan overloading method.genruntimeconfig.cache
+E:\visual studio NET\latihan overloading method\latihan overloading method\obj\Debug\net6.0\ref\latihan overloading method.dll
